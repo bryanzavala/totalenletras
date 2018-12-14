@@ -1,0 +1,15 @@
+{
+    "name": "bryanzavala/totalenletras",
+    "authors": [
+        {
+            "name": "Bryan Zavala",
+            "email": "bzavalavaldivia@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "bryanzavala\\helpers\\": "src/"
+        }
+    }
+}

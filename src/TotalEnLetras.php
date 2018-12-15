@@ -1,5 +1,5 @@
 <?php
-namespace BryanZavala\Helpers;
+namespace BryanZavala\Facturacion\Helpers;
 
 class TotalEnLetras
 {

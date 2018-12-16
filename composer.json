@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Bryanzavala\\Facturacion\\Helpers\\": "src/"
+            "BryanZavala\\Facturacion\\Helpers\\": "src/"
         }
     }
 }
